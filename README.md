@@ -19,3 +19,11 @@ The program is implemented in Python and solves the problem by iterating through
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/foo-bar.git
+
+2. Navigate to the project directory:
+   ```bash
+cd foo-bar
+
+3. Run the Python script:
+   ```bash
+python foo_bar.py
