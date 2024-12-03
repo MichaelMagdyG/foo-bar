@@ -22,8 +22,8 @@ The program is implemented in Python and solves the problem by iterating through
 
 2. Navigate to the project directory:
    ```bash
-cd foo-bar
+   cd foo-bar
 
 3. Run the Python script:
    ```bash
-python foo_bar.py
+   python foo_bar.py
